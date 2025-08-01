@@ -12,6 +12,6 @@ I'm Alvaro and this is my space where I store some works in RUST, Java, Kotlin, 
 こんにちは!<br />
 はじめまして。<br />
 私のなまえはアルバロです。<br />
-ここには、RUST、Java、Python、Golang、Kotlin の私のプロジェクトがあります。<br />
+ここには,RUST,Java,Python,Golang,Kotlin の私のプロジェクトがあります。<br />
 
 ![](https://komarev.com/ghpvc/?username=alvarowm)
